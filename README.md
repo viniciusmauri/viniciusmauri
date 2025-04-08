@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente atuo como desenvolvedor Java pleno na Framework!<br>🌱 Estou estudando sobre AWS, inglês e um pouco de gestão de projetos.<br>💬 Sou casado e tenho 2 lindos filhos. Formado em Sistemas de Informação pela UNA-BH em 2019.<br>⚡ Nas horas vagas gosto de jogar video game, brincar com meus filhos e pets.<br><br>
+🔭 Atualmente atuo como desenvolvedor Java na Framework!<br>🌱 Estou estudando sobre AWS, inglês e um pouco de gestão de projetos.<br>💬 Sou casado e tenho 2 lindos filhos. Formado em Sistemas de Informação pela UNA-BH em 2019.<br>⚡ Nas horas vagas gosto de jogar video game, brincar com meus filhos e pets.<br><br>
 
 
 ## 🌐 Socials:
